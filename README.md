@@ -1,3 +1,5 @@
+### Update : We clutched the podium by bagging the 3rd spot 🎉
+
 # Introduction
 
 This project was developed as part of **SpaceCode Challenge 2025**, a two-day hackathon hosted by the **Space Technology and Astronomy Cell (STAC)**, IIT Mandi. The competition challenged participants to solve computational and theoretical problems in the domain of astrophysics, including exoplanet analysis, orbital mechanics, and pulsar classification. 

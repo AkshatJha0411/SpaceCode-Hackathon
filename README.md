@@ -1,4 +1,5 @@
 ### Update : We clutched the podium by bagging the 3rd spot 🎉
+![298BE27D-649D-4DCF-9314-62236F15E029_1_201_a](https://github.com/user-attachments/assets/c49ac81e-f843-42e7-a9d0-1c91d086f906)
 
 # Introduction
 
